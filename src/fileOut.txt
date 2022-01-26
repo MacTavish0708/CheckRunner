@@ -1,0 +1,13 @@
+               CASH RECEIPT
+             Supermarket 5chka
+Bedi 4 Minsk
+Tel: 80291234567
+Cashier №0001              Date:26/01/2022
+                           Time:18:15:16
+------------------------------------------
+QTY DESCRIPTION             PRICE    TOTAL
+------------------------------------------
+TAXABLE TOTAL:                       $0,00
+DISCOUNT:0%                          $0,00
+STOCK DISCOUNT                       $0,00
+TOTAL                                $0,00

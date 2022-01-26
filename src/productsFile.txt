@@ -1,0 +1,35 @@
+Tomatoes:92.14
+Cucumbers:103.40
+Peppers:129.60
+Cabbage:33.14
+Potatoes:35.71
+Orange juice:45.02
+Oranges:79.33
+Bananas:61.10
+Pears:115.50
+Kiwi:106.00
+Beef:381.17
+Chicken fillet:286.38
+Pork:266.08
+Boiled sausage:367.43
+Semi-smoked sausage:100000000
+Salted herring:185.66
+Pollock fillet:254.95
+Yoghurt 2.5%:22.43
+Packed milk yogurt:60.29
+Margarine by weight:111.34
+Kefir in pack:53.40
+Ryazhenka:48.21
+Sour cream 20%:146.06
+Table chicken egg:74.19
+Sugar:47.901
+Bread:41.92
+Pasta, including vermicell:41.92
+Rye-wheat bread:83.57
+Bagels:113.14
+Cookies:130.06
+Biscuits:133.87
+Marmalade:148.04
+Gingerbread:106.99
+Zephyr:170.75
+Packed cocoa, 100 g:42.45
